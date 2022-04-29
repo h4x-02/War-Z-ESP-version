@@ -1,0 +1,20 @@
+c:\users\christoffer\documents\visual studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\christoffer\documents\visual studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\War_Z_ESP_version_1.Form1.resources
+c:\users\christoffer\documents\visual studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\War_Z_ESP_version_1.Properties.Resources.resources
+c:\users\christoffer\documents\visual studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\christoffer\documents\visual studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\christoffer\documents\visual studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\bin\Debug\War Z ESP version 1.exe
+c:\users\christoffer\documents\visual studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\bin\Debug\War Z ESP version 1.pdb
+c:\users\christoffer\documents\visual studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\War Z ESP version 1.exe
+c:\users\christoffer\documents\visual studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\War Z ESP version 1.pdb
+C:\Users\Christoffer\Documents\Visual Studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\bin\Debug\mysql.data.dll
+C:\Users\Christoffer\Documents\Visual Studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\War_Z_ESP_version_1.LoginForm.resources
+C:\Users\Christoffer\Documents\Visual Studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\War_Z_ESP_version_1.AboutForm.resources
+C:\Users\Christoffer\Documents\Visual Studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\War_Z_ESP_version_1.VersionCheck.resources
+C:\Users\Christoffer\Documents\Visual Studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\bin\Debug\War Z ESP version 1.exe.manifest
+C:\Users\Christoffer\Documents\Visual Studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\bin\Debug\War Z ESP version 1.application
+C:\Users\Christoffer\Documents\Visual Studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\War Z ESP version 1.TrustInfo.xml
+C:\Users\Christoffer\Documents\Visual Studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\War Z ESP version 1.exe.manifest
+C:\Users\Christoffer\Documents\Visual Studio 2010\Projects\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\War Z ESP version 1.application
+C:\Users\repub\Desktop\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\War Z ESP version 1.exe
+C:\Users\repub\Desktop\War Z ESP version 1\War Z ESP version 1\obj\x86\Debug\War Z ESP version 1.pdb
